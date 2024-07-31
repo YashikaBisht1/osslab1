@@ -1,4 +1,4 @@
-q1)
+q2)
 #include <stdio.h>
 int main(){
   int n,i;
@@ -14,7 +14,7 @@ int main(){
   printf("Average = %.2f", avg);
   return 0;
 }
-q2)
+q3)
 #include <stdio.h>
 #include <string.h>
 
